@@ -27,15 +27,6 @@ GitHub
 
 ---
 
-### ✅ After pasting:
-- Click **"Commit changes"** on the top-right of GitHub.
-
-Let me know if you'd like:
-- A logo/banner
-- Animated demo (GIF or video)
-- Deployment on other platforms like Railway or Heroku
-
-
 
 
 
